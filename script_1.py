@@ -6,7 +6,7 @@ import os
 import cv2
 from tqdm import tqdm
 
-DATADIR = "/Users/makar/Programming/AI/Trashy Trash/First two categories photos set - glass and paper"
+DATADIR = "two categories/"
 
 CATEGORIES = ["glass", "paper"]
 
